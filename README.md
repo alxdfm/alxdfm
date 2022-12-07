@@ -2,8 +2,7 @@
 
 <h2 align="center">Salve rapaziada 🤙</h2>
 <h1 align="center">Sou o Alexandre, bem vindos ao meu GitHub! 😁</h1>
-<h3 align="left">Estou estudando desenvolvimento web, pois sonho em me tornar um grande desenvolvedor!</h3>
-<h3 align="left">Seguem as principais linguagens, tecnologias e ferramentas de desenvolvimento que estou estudando:</h3>
+<h3 align="left">Seguem as principais linguagens, tecnologias e ferramentas de desenvolvimento que estou estudando e/ou trabalhando:</h3>
 
 <p align="left">
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
@@ -11,24 +10,18 @@
   </a> 
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
-  </a> 
-  <a href="https://projectlombok.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.clipartmax.com/png/full/255-2556400_project-lombok-logo.png" alt="lombok" width="40" height="40"/> 
-  </a>
-  <a href="https://vaadin.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.clipartmax.com/png/full/200-2007090_bakery-app-starter-fw8-spring-docs-vaadin.png" alt="vaadin" width="40" height="40"/> 
-  </a>
-  <a href="https://restfulapi.net/" target="_blank" rel="noreferrer"> 
-    <img src="https://restfulapi.net/wp-content/uploads/cropped-rest.png" alt="rest" width="40" height="40"/> 
-  </a>
-  <a href="https://junit.org/junit5/" target="_blank" rel="noreferrer"> 
-    <img src="https://junit.org/junit5/assets/img/junit5-logo.png" alt="junit" width="40" height="40"/> 
-  </a>
-  <a href="https://rest-assured.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://rest-assured.io/img/logo-transparent.png" alt="restassured" width="40" height="40"/> 
   </a>
   <a href="https://maven.apache.org/" target="_blank" rel="noreferrer"> 
     <img src="https://www.clipartmax.com/png/full/182-1826627_apache-maven.png" alt="maven" width="40" height="40"/> 
+  </a>
+  <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg" alt="nestjs" width="40" height="40"/> 
+  </a>
+  <a href="https://graphql.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://graphql.org/img/logo.svg" alt="graphql" width="40" height="40"/> 
+  </a>
+  <a href="https://typeorm.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/typeorm/typeorm/raw/master/resources/logo_big.png" alt="typeorm" width="80" height="40"/> 
   </a>
 </p>
 <p align="left"> 
@@ -47,11 +40,8 @@
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
   </a>
-  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> 
-  </a>
-  <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> 
+  <a href="https://styled-components.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://styled-components.com/logo.png" alt="styled-components" width="40" height="40"/> 
   </a>
 </p>
 <p align="left"> 
