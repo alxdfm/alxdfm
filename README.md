@@ -37,16 +37,15 @@
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=alxdfm&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=9945FF&icon_color=9945FF&text_color=c9d1d9" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alxdfm&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=9945FF&text_color=c9d1d9" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alxdfm&theme=github_dark" />
 </p>
 
 ---
 
 ## 🔗 Links
 
-[![Twitter](https://img.shields.io/badge/Twitter-000?style=flat-square&logo=x&logoColor=fff)](https://twitter.com/YOUR_HANDLE)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=fff)](https://linkedin.com/in/YOUR_HANDLE)
+[![Twitter](https://img.shields.io/badge/Twitter-000?style=flat-square&logo=x&logoColor=fff)](https://twitter.com/lordcallydus)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=fff)](https://linkedin.com/in/alxdfm)
 
 ---
 
